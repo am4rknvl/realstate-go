@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/ama4rknvl/realestate-go/database"
+	"github.com/am4rknvl/realstate-go/database"
 	"github.com/gorilla/mux"
 )
 
